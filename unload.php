@@ -75,8 +75,8 @@
             <tbody>
                 <?php 
                 $servername = "localhost";
-                $username = "root";
-                $password = "neelesh@123";
+                $username = "debian-sys-maint";
+                $password = "jfXNcikwy19a0moq";
                 $database = "v_guard";
 
                 // Create connection
