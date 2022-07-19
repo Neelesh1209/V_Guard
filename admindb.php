@@ -2,7 +2,7 @@
       $username = $_POST['username'];
       $password = $_POST['password'];
      
-      $con = new mysqli("localhost", "root", "neelesh@123", "v_guard");
+      $con = new mysqli("localhost", "debian-sys-maint", "jfXNcikwy19a0moq", "v_guard");
       if($con->connect_error)
       {
         die("failed to connect : ".$con->connect_error);
